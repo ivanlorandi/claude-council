@@ -1,0 +1,12 @@
+{
+  "name": "claude-council",
+  "owner": { "name": "ivanlorandi" },
+  "metadata": { "description": "Conselho de modelos Claude para o Claude Code (inspirado no llm-council do Karpathy)." },
+  "plugins": [
+    {
+      "name": "council",
+      "source": "./plugins/council",
+      "description": "Conselho de modelos Claude: 4 subagentes respondem, avaliam as respostas anonimizadas entre si e um presidente sintetiza. Inspirado no llm-council do Karpathy."
+    }
+  ]
+}

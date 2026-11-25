@@ -1,0 +1,7 @@
+{
+  "name": "council",
+  "version": "1.0.0",
+  "description": "Conselho de modelos Claude: 4 subagentes respondem, avaliam as respostas anonimizadas entre si e um presidente sintetiza. Inspirado no llm-council do Karpathy.",
+  "author": { "name": "ivanlorandi" },
+  "license": "MIT"
+}
