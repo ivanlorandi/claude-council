@@ -24,7 +24,9 @@ A sessão completa (respostas e avaliações integrais) fica salva em `~/council
 /plugin install council@claude-council
 ```
 
-**Manual:** copie a pasta `plugins/council/skills/council` para `~/.claude/skills/council`.
+Instalado como plugin, o comando fica `/council:council`.
+
+**Manual:** copie a pasta `plugins/council/skills/council` para `~/.claude/skills/council`. Assim o comando fica só `/council`.
 
 ## Uso
 
